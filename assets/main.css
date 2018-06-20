@@ -8,9 +8,9 @@ blockquote {
     border-left-color: rgba(0, 0, 0, 0.1);
     border-left-width: 4px; */
     padding: 6px 32px;
-    font-style: italic;
+    /* font-style: italic; */
     text-align: center;
-    font-size: 1.2em;
+    font-family: 'Playfair Display', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 blockquote > p {
